@@ -1,2 +1,2 @@
 # TDA
-Topological Data Analysis Page
+Página para el curso de Topological Data Analysis Page.
